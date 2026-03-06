@@ -70,8 +70,7 @@ Created a practical library solution for cataloging books, tracking issue/return
 ## Let’s Work Together
 
 If you need a reliable developer for your web project, I am available for freelance work and long-term collaboration.
-
-- Fiverr: [fiverr.com/s/jjmRE1a](https://www.fiverr.com/s/jjmRE1a)
+- Email: [muhammadmoueen5@gmail.com](mailto:muhammadmoueen5@gmail.com)- Fiverr: [fiverr.com/s/jjmRE1a](https://www.fiverr.com/s/jjmRE1a)
 - Upwork: [upwork.com/freelancers/~01e95a57b4f87a6d95](https://www.upwork.com/freelancers/~01e95a57b4f87a6d95)
 - LinkedIn: [linkedin.com/in/muhammadmoueen](https://www.linkedin.com/in/muhammadmoueen)
 - WhatsApp: [wa.me/923276963822](https://wa.me/923276963822)
