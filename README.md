@@ -56,39 +56,7 @@ I do not just write code. I solve business problems through technology by improv
 
 ---
 
-## Experience
 
-### Freelance Full Stack Developer
-
-- Delivered end-to-end web applications for clients in startup and business environments
-- Built modern frontend interfaces and integrated them with scalable backend APIs
-- Designed database schemas and optimized query performance for production workloads
-- Managed deployment workflows, bug fixing, and ongoing feature improvements
-- Collaborated directly with clients to translate business requirements into technical solutions
-
----
-
-## Featured Projects
-
-### 1. E-Commerce Web Application
-
-- Developed a complete online store with product catalog, cart, checkout flow, and admin management
-- **Tech:** React, Node.js, Express, MongoDB
-- **Value:** Enabled businesses to manage products, process orders, and improve online sales operations
-
-### 2. Business Management Dashboard
-
-- Built a data-driven dashboard for tracking users, orders, and operational KPIs in one place
-- **Tech:** React, Django, MySQL
-- **Value:** Helped decision-makers monitor growth and improve operational visibility
-
-### 3. Custom REST API Platform
-
-- Engineered secure REST APIs with authentication, role-based access, and structured endpoints
-- **Tech:** Node.js, Express, MongoDB, Postman
-- **Value:** Supported frontend apps and third-party integrations with reliable backend services
-
----
 
 ## Platforms & Presence
 
@@ -111,9 +79,6 @@ I do not just write code. I solve business problems through technology by improv
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMoueen&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMoueen&layout=compact&hide_border=true)
 
----
 
 ⭐ Thanks for visiting my profile.
