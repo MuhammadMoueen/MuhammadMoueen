@@ -101,9 +101,9 @@ I do not just write code. I solve business problems through technology by improv
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmoueen&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmoueen&theme=tokyonight" width="100%"/>
-</p>
+</p> -->
 
 
 ⭐ Thanks for visiting my profile.
