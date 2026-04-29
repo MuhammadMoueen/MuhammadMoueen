@@ -97,9 +97,9 @@ I do not just write code. I solve business problems through technology by improv
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadmoueen&theme=tokyo-night" width="100%"/>
 </p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmoueen&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</p> -->
 
 
 ⭐ Thanks for visiting my profile.
